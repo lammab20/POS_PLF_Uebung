@@ -1,0 +1,130 @@
+[
+  {
+    "initalLetter": "e",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Ethan Hunt",
+    "yearOfBirth1": 1996,
+    "class": "4BHIF"
+  },
+  {
+    "initalLetter": "j",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "James Bond",
+    "yearOfBirth1": 1954,
+    "class": "3BHIF"
+  },
+  {
+    "initalLetter": "s",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Sherlock Holmes",
+    "yearOfBirth1": 1939,
+    "class": "1CHIF"
+  },
+  {
+    "initalLetter": "h",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Han Solo",
+    "yearOfBirth1": 1977,
+    "class": "4BHIF"
+  },
+  {
+    "initalLetter": "c",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Chewbacca",
+    "yearOfBirth1": 1977,
+    "class": "1CHIF"
+  },
+  {
+    "initalLetter": "c",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Cassian Andor",
+    "yearOfBirth1": 2016,
+    "class": "5BHIF"
+  },
+  {
+    "initalLetter": "d",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Din Djarin (der Mandalorianer)",
+    "yearOfBirth1": 2019,
+    "class": "4BHIF"
+  },
+  {
+    "initalLetter": "l",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Luke Skywalker",
+    "yearOfBirth1": 1977,
+    "class": "5BHIF"
+  },
+  {
+    "initalLetter": "l",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Leia Organa",
+    "yearOfBirth1": 1977,
+    "class": "4BHIF"
+  },
+  {
+    "initalLetter": "q",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Qui-Gon Jinn",
+    "yearOfBirth1": 1999,
+    "class": "1CHIF"
+  },
+  {
+    "initalLetter": "c",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Captain Jack Sparrow",
+    "yearOfBirth1": 2003,
+    "class": "5BHIF"
+  },
+  {
+    "initalLetter": "w",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "William Turner",
+    "yearOfBirth1": 2003,
+    "class": "4BHIF"
+  },
+  {
+    "initalLetter": "e",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Elizabeth Swann",
+    "yearOfBirth1": 2003,
+    "class": "1CHIF"
+  },
+  {
+    "initalLetter": "f",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Frodo Beutlin",
+    "yearOfBirth1": 2001,
+    "class": "5BHIF"
+  },
+  {
+    "initalLetter": "g",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Gandalf",
+    "yearOfBirth1": 2001,
+    "class": "4BHIF"
+  },
+  {
+    "initalLetter": "l",
+    "localDate": "2024/10/14",
+    "localDateTime": "2024-10-14 09:21:32",
+    "name1": "Legolas",
+    "yearOfBirth1": 2001,
+    "class": "1CHIF"
+  }
+]

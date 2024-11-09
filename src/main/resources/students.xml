@@ -1,0 +1,132 @@
+<school>
+  <STUDENTS>
+    <student>
+      <initalLetter>e</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Ethan Hunt</name1>
+      <yearOfBirth1>1996</yearOfBirth1>
+      <class>4BHIF</class>
+    </student>
+    <student>
+      <initalLetter>j</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>James Bond</name1>
+      <yearOfBirth1>1954</yearOfBirth1>
+      <class>5BHIF</class>
+    </student>
+    <student>
+      <initalLetter>s</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Sherlock Holmes</name1>
+      <yearOfBirth1>1939</yearOfBirth1>
+      <class>1CHIF</class>
+    </student>
+    <student>
+      <initalLetter>h</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Han Solo</name1>
+      <yearOfBirth1>1977</yearOfBirth1>
+      <class>4BHIF</class>
+    </student>
+    <student>
+      <initalLetter>c</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Chewbacca</name1>
+      <yearOfBirth1>1977</yearOfBirth1>
+      <class>1CHIF</class>
+    </student>
+    <student>
+      <initalLetter>c</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Cassian Andor</name1>
+      <yearOfBirth1>2016</yearOfBirth1>
+      <class>5BHIF</class>
+    </student>
+    <student>
+      <initalLetter>d</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Din Djarin (der Mandalorianer)</name1>
+      <yearOfBirth1>2019</yearOfBirth1>
+      <class>4BHIF</class>
+    </student>
+    <student>
+      <initalLetter>l</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Luke Skywalker</name1>
+      <yearOfBirth1>1977</yearOfBirth1>
+      <class>5BHIF</class>
+    </student>
+    <student>
+      <initalLetter>l</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Leia Organa</name1>
+      <yearOfBirth1>1977</yearOfBirth1>
+      <class>4BHIF</class>
+    </student>
+    <student>
+      <initalLetter>q</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Qui-Gon Jinn</name1>
+      <yearOfBirth1>1999</yearOfBirth1>
+      <class>1CHIF</class>
+    </student>
+    <student>
+      <initalLetter>c</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Captain Jack Sparrow</name1>
+      <yearOfBirth1>2003</yearOfBirth1>
+      <class>5BHIF</class>
+    </student>
+    <student>
+      <initalLetter>w</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>William Turner</name1>
+      <yearOfBirth1>2003</yearOfBirth1>
+      <class>4BHIF</class>
+    </student>
+    <student>
+      <initalLetter>e</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Elizabeth Swann</name1>
+      <yearOfBirth1>2003</yearOfBirth1>
+      <class>1CHIF</class>
+    </student>
+    <student>
+      <initalLetter>f</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Frodo Beutlin</name1>
+      <yearOfBirth1>2001</yearOfBirth1>
+      <class>5BHIF</class>
+    </student>
+    <student>
+      <initalLetter>g</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Gandalf</name1>
+      <yearOfBirth1>2001</yearOfBirth1>
+      <class>4BHIF</class>
+    </student>
+    <student>
+      <initalLetter>l</initalLetter>
+      <localDate>2024/10/14</localDate>
+      <localDateTime>2024-10-14 09:12:41</localDateTime>
+      <name1>Legolas</name1>
+      <yearOfBirth1>2001</yearOfBirth1>
+      <class>1CHIF</class>
+    </student>
+  </STUDENTS>
+</school>
